@@ -13,7 +13,7 @@ Selenium 3.5.0 + GeckoDriver 0.18.0 + Firefox 55.0.2
 
 ## Usage
 ```
-git clone https://github.com/AlenaNazarava/loginruby.git
+git clone https://github.com/alena0604/loginruby.git
 ```
 
 Navigate to ***folder/cucumber/*** and run tests:
